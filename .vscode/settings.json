@@ -1,0 +1,12 @@
+{
+  "editor.autoIndent": "none",
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.autoSurround": "never",
+  "editor.quickSuggestions": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "editor.detectIndentation": false,
+  "files.autoSave": "off"
+}
